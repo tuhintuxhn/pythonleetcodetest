@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
