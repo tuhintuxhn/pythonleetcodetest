@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
