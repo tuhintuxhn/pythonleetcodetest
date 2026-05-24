@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -129,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
