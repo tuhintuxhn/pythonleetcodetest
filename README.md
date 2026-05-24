@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
