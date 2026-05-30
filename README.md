@@ -137,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
