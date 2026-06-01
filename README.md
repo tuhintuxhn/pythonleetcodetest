@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/0620-not-boring-movies) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/tuhintuxhn/pythonleetcodetest/tree/master/1683-invalid-tweets) |
